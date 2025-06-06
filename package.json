@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --out docs",
+    "build": "slidev build --base='/slides-workshop-innofest-s25a-mcp/'  --out docs",
     "dev": "slidev --open",
     "export": "slidev export"
   },
