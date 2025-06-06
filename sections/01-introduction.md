@@ -22,9 +22,12 @@
 
 # Workshop Agenda
 
-- **Understanding MCP**: What is Model Context Protocol and why it matters (5 minutes)
-- **Demonstrations**: Interactive Claude Desktop demonstrations (20 minutes)
-- **Building with MCP**: Create your own simple MCP server using AI assistance (5 minutes)
+- **Understanding MCP** (5 minutes):
+  - What is Model Context Protocol and why it matters
+- **Demonstrations** (20 minutes):
+  - Interactive Claude Desktop demonstrations
+- **Building with MCP** (5 minutes):
+  - Create your own simple MCP server using AI assistance
 
 <style>
 h1 {
