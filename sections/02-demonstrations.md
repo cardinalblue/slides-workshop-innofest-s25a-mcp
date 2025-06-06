@@ -30,6 +30,15 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
 
 # Writing PRD and creating tasks
 
+## Project
+- Goal: Use ChatGPT API to let user create collages using chat
+  - The agent will equip tools that can
+    - Analyze the user photos and videos and find the suitable media from the gallery
+    - Inser photos and videos. Put them to the right place
+    - Add decorations using our existing assets
+
+- Detailed prompt: [Link](https://www.notion.so/piccollage/Detailed-prompt-for-LLM-collage-20a60e6b8fd7807b99d3ce5b891743af)
+
 ---
 
 # Use playwright to do something
