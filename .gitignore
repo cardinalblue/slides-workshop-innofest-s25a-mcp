@@ -8,8 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+# Using docs folder for GitHub Pages instead of dist
 dist
 dist-ssr
+# docs folder is tracked for GitHub Pages
+# docs
 *.local
 
 # Editor directories and files
