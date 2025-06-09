@@ -14,10 +14,15 @@ transition: slide-left
 mdc: true
 ---
 
-<h2 style="margin-bottom: 0; opacity: 0.6;">Innofest Workshop</h2>
+<h2 style="margin-bottom: 0; opacity: 0.6;">2025/6/11 Innofest Workshop</h2>
 
 # Introduction to
 # Model Context Protocol
+
+<div style="margin-top: 2rem; opacity: 0.8;">
+  <p>Presented by: <strong>Landice</strong></p>
+  <p>Featuring: <strong>WeiHang</strong></p>
+</div>
 
 ---
 src: ./sections/01-introduction.md
