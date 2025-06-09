@@ -85,11 +85,29 @@ Create your own simple MCP server using AI assisted coding tools
           </blockquote>
       </ul>
     </li>
-    <li>Now the LLM providers (OpenAI, Claude....) are making this possible.</li>
+    <li>Now most the LLM providers (OpenAI, Claude....) already made this possible by
+      <ul>
+        <li>Tool use capability</li>
+        <li>Function call capability</li>
+      </ul>
+    </li>
   </ul>
 </v-clicks>
 
 ---
 
-# Test
+# What is MCP?
 
+### A Univeral Adapter for Connecting Tools Built for Agents to LLMs
+
+<v-clicks>
+
+- If a tool is built for claude using function call, it's doesn't mean it's ready for OpenAI models
+
+- However, if it's built based on MCP, then it's ready for lots of tools
+  - Claude Desktop, n8n, Roo Code, Cursor...
+
+- The protocol already define a way to let language models to know how to use the tool, so you don't need to use prompt to teach it
+
+- Once it's connected, what you need to do is just ask the agent to do whatever it can do with the tools available
+</v-clicks>
