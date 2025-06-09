@@ -3,6 +3,7 @@
 - Another LLM as tool for the current agent to use
 - Tool for accessing hopter services
 
+
 ---
 
 # The MCP Servers Used in the Demos
@@ -18,4 +19,3 @@
 ---
 
 # More Resources
-
