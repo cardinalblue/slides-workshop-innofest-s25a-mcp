@@ -4,9 +4,9 @@
 
 # Innofest Brainstorming
 
-<div class="bg-gray-100 border-l-4 border-gray-400 p-4 my-4">
+<div class="bg-gray-800 border-l-4 border-blue-500 p-4 my-4">
 
-<span class='italic text-gray-700'>
+<span class='text-gray-300'>
 <p>I am in a mobile software company. We are having hackathon this week.</p>
 <p>Can you help to brainstorm for a list of mobile projects to start?</p>
 <p>Please use clickup mcp to record each idea. Create tasks with detailed descriptions.</p>

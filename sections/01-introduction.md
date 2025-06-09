@@ -35,6 +35,32 @@ Create your own simple MCP server using AI assisted coding tools
 
 # What is MCP?
 
+## What if this works (in a Monday morning)
+
+<v-clicks>
+<div class="bg-gray-800 border-l-4 border-blue-500 p-4 my-4">
+
+<span class='text-gray-300'>
+<p></p>
+<p>Make my vamcuum robot start to clean the house.</p>
+<p>Please check notes from my weekly work journal last week from notion, and give me a prioritized list of tasks to be done. Add them directly to the journel page for this week.</p>
+<p>Also, check my emails received during the weekend and LMK if there's something important.</p>
+<p>Message James on slack, let him know I will reach out to him for a chat about some interesting new AI stuffs.</p>
+</span>
+
+</div>
+
+
+<li>Already something doable</li>
+<li>The setup is not friendly to people other than software devs currently</li>
+<li>However, this is gonna be changed soon</li>
+
+</v-clicks>
+
+---
+
+# What is MCP?
+
 ### What is LLM?
 
 <v-clicks>
@@ -42,7 +68,7 @@ Create your own simple MCP server using AI assisted coding tools
     <li>Large language model</li>
     <li>Machine learning model</li>
     <li>A bunch of numbers</li>
-    <li>It doesn't know what the current date adn time is, so you can't do this
+    <li>It doesn't know what the current date and time is, so you can't do this
       <ul>
           <blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
             List all the movies released this year for me.
@@ -53,7 +79,7 @@ Create your own simple MCP server using AI assisted coding tools
     <li>
       <ul>
           <blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
-            <p>Read the emails received starting from yesterday.</p>
+            <p>Read my emails received starting from yesterday.</p>
             <p>Also, check my calendar and schedule some necessary meetings for me based on the emails. Be sure to check the attendees' calendar to avoid conflicts.</p>
             <p>Send the summary to me using telegram after you finish everything</p>
           </blockquote>
