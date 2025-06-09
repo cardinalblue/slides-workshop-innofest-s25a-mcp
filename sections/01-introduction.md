@@ -35,7 +35,7 @@ Create your own simple MCP server using AI assisted coding tools
 
 # What is MCP?
 
-## What if this works (in a Monday morning)
+## What if this works
 
 <v-clicks>
 <div class="bg-gray-800 border-l-4 border-blue-500 p-4 my-4">
@@ -50,12 +50,24 @@ Create your own simple MCP server using AI assisted coding tools
 
 </div>
 
-
-<li>Already something doable</li>
-<li>The setup is not friendly to people other than software devs currently</li>
-<li>However, this is gonna be changed soon</li>
-
 </v-clicks>
+
+---
+
+# What if this works
+
+<div class="grid grid-cols-2 gap-4">
+  <div class="flex items-center justify-center">
+    <img src="/images/robot_working_human_looking.png" alt="Robot" class="w-full h-auto" />
+  </div>
+  <div>
+    <ul>
+      <li>Already something doable</li>
+      <li>The setup is not friendly to people other than software devs currently</li>
+      <li>However, this is gonna be changed soon</li>
+    </ul>
+  </div>
+</div>
 
 ---
 

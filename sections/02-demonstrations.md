@@ -1,4 +1,9 @@
-# Demonstrations
+---
+layout: center
+class: text-center
+---
+
+<h1 style="font-size: 80px; font-weight:500; margin: 0;">Demonstrations</h1>
 
 ---
 
@@ -16,6 +21,10 @@
 </span>
 
 </div>
+
+- MCP Servers used
+  - Notion MCP Server ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
+  - ClickUp MCP Server ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
 
 <!--
 I am in a mobile software company. We are having hackathon this week.
@@ -36,9 +45,16 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
     - Analyze the user photos and videos and find the suitable media from the gallery
     - Inser photos and videos. Put them to the right place
     - Add decorations using our existing assets
-
 - Detailed prompt: [Link](https://www.notion.so/piccollage/Detailed-prompt-for-LLM-collage-20a60e6b8fd7807b99d3ce5b891743af)
+- MCP Servers used
+  - Notion MCP Server ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
+  - ClickUp MCP Server ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
 
 ---
 
-# Use playwright to do something
+# Check the issues of PicCollage release
+
+- MCP Server used: [Playwright MCP Server](https://executeautomation.github.io/mcp-playwright/)
+- [Detailed prompt](https://www.notion.so/piccollage/Detailed-prompt-for-the-Crashlytics-check-20a60e6b8fd78002ad44e95bad11cf20?source=copy_link)
+- Find PicCollage job opening
+- Order a pizza
