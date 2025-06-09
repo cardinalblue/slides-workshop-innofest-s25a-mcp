@@ -54,7 +54,18 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
 
 # Check the issues of PicCollage release
 
-- MCP Server used: [Playwright MCP Server](https://executeautomation.github.io/mcp-playwright/)
-- [Detailed prompt](https://www.notion.so/piccollage/Detailed-prompt-for-the-Crashlytics-check-20a60e6b8fd78002ad44e95bad11cf20?source=copy_link)
-- Find PicCollage job opening
-- Order a pizza
+<div class="grid grid-cols-2 gap-4">
+  <div class="flex items-center justify-center">
+    <ul>
+      <p><img src="/images/robot_qa.png" alt="Robot" class="w-full h-auto" /></p>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>MCP Server used: <a href="https://executeautomation.github.io/mcp-playwright/">Playwright MCP Server</a></li>
+      <li><a href="https://www.notion.so/piccollage/Detailed-prompt-for-the-Crashlytics-check-20a60e6b8fd78002ad44e95bad11cf20">Detailed prompt</a></li>
+      <li>List PicCollage job openings</li>
+      <li>Order a pizza</li>
+    </ul>
+  </div>
+</div>
