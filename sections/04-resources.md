@@ -1,10 +1,3 @@
-# Some Ideas That May Inspire You
-
-- Another LLM as tool for the current agent to use
-- Tool for accessing hopter services
-
----
-
 # Resources
 
 - [Model Context Protocol - official documents](https://modelcontextprotocol.io/introduction)

@@ -34,5 +34,5 @@ src: ./sections/02-demonstrations.md
 src: ./sections/03-create-a-mcp-server.md
 ---
 ---
-src: ./sections/04-inspiration-and-references.md
+src: ./sections/04-resources.md
 ---
