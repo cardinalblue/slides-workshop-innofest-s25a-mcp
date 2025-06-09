@@ -3,7 +3,7 @@
 <v-clicks>
 
 ## Not in this Workshop
-- No environment setup & No tutorial on how to configuration MCP server in MCP clients
+- No environment setup & No tutorial on how to configure MCP server in MCP clients
 - Less technical details and more analogies
 - Focusing only on the "tool" capability of MCP server
 - Find a developer to help
@@ -42,7 +42,7 @@ Create your own simple MCP server using AI assisted coding tools
 
 <span class='text-gray-300'>
 <p></p>
-<p>Make my vamcuum robot start to clean the house.</p>
+<p>Make my vacuum robot start to clean the house.</p>
 <p>Please check notes from my weekly work journal last week from notion, and give me a prioritized list of tasks to be done. Add them directly to the journel page for this week.</p>
 <p>Also, check my emails received during the weekend and LMK if there's something important.</p>
 <p>Message James on slack, let him know I will reach out to him for a chat about some interesting new AI stuffs.</p>
@@ -63,7 +63,7 @@ Create your own simple MCP server using AI assisted coding tools
   <div>
     <ul>
       <li>Already something doable</li>
-      <li>The setup is not friendly to people other than software devs currently</li>
+      <li>Currently, the setup is not friendly to people other than software developers</li>
       <li>However, this is gonna be changed soon</li>
     </ul>
   </div>
@@ -114,20 +114,20 @@ Create your own simple MCP server using AI assisted coding tools
 <div class="grid grid-cols-2 gap-4">
   <div class="flex items-center justify-center">
     <ul>
-      <p>A Univeral Adapter for Connecting Tools to LLMs</p>
+      <p>A Universal Adapter for Connecting Tools to LLMs</p>
       <p><img src="/images/mcp_usb_adapter.png" alt="Robot" class="w-full h-auto" /></p>
     </ul>
   </div>
   <div><v-clicks>
     <ul>
-      <li>If a tool is built for claude using function call, it's doesn't mean it's ready for OpenAI models</li>
+      <li>If a tool is built for Claude using function call, it doesn't mean it's ready for OpenAI models</li>
       <li>
         However, if it's built based on MCP, then it's ready for lots of tools
         <ul>
           <li>Claude Desktop, n8n, Roo Code, Cursor...</li>
         </ul>
       </li>
-      <li>The protocol already define a way to let language models to know how to use the tool, so you don't need to use prompt to teach it</li>
+      <li>The protocol already defines a way to let language models know how to use the tool, so you don't need to use prompts to teach it</li>
       <li>Once it's connected, what you need to do is just ask the agent to do whatever it can do with the tools available</li>
     </ul>
   </v-clicks></div>

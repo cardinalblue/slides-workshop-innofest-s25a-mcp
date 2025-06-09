@@ -43,7 +43,7 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
 - Goal: Use ChatGPT API to let user create collages using chat
   - The agent will equip tools that can
     - Analyze the user photos and videos and find the suitable media from the gallery
-    - Inser photos and videos. Put them to the right place
+    - Insert photos and videos. Put them in the right place
     - Add decorations using our existing assets
 - Detailed prompt: [Link](https://www.notion.so/piccollage/Detailed-prompt-for-LLM-collage-20a60e6b8fd7807b99d3ce5b891743af)
 - MCP Servers used
@@ -78,7 +78,7 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
   <li>We took a snapshot of the PicCollage content database</li>
   <li>With the help from Claude + PostgreSQL MCP Server, people can figure out what's in the content database and answer many questions they have towards the current content we have.
     <ul>
-      <li>Claude knows how to use it, so even for members not from engineering function can use it</li>
+      <li>Claude knows how to use it, so even members not from the engineering function can use it</li>
     </ul>
   </li>
   <li>
