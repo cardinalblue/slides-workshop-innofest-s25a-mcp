@@ -60,7 +60,7 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
       <p><img src="/images/robot_qa.png" alt="Robot" class="w-full h-auto" /></p>
     </ul>
   </div>
-  <div>
+  <div class="flex items-center">
     <ul>
       <li>MCP Server used: <a href="https://executeautomation.github.io/mcp-playwright/">Playwright MCP Server</a></li>
       <li><a href="https://www.notion.so/piccollage/Detailed-prompt-for-the-Crashlytics-check-20a60e6b8fd78002ad44e95bad11cf20">Detailed prompt</a></li>
