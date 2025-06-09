@@ -69,3 +69,34 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
     </ul>
   </div>
 </div>
+
+---
+
+# PicCollage Database Inspection (WeiHang)
+
+<ul>
+  <li>We took a snapshot of the PicCollage content database</li>
+  <li>With the help from Claude + PostgreSQL MCP Server, people can figure out what's in the content database and answer many questions they have towards the current content we have.
+    <ul>
+      <li>Claude knows how to use it, so even for members not from engineering function can use it</li>
+    </ul>
+  </li>
+  <li>
+  Examples
+    <p><blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
+      How many background bundle are there in the database?
+    </blockquote></p>
+    <p><blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
+      Help me search the database to find a list of bundles which are suitable to use in Mother's Day based on bundles' name and tags.
+    </blockquote></p>
+    <p><blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
+      Search the database, give me a list of newest 10 bundles in CSV format with the following columns:
+      <p>1. ID, 2. Name, 3. List of tag names, 4. Creation Time</p>
+    </blockquote></p>
+    <p><blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
+      What are the top 10 most expensive premium bundles and how many stickers does each contain?
+    </blockquote></p>
+    
+  </li>
+  <li><a href="https://www.notion.so/piccollage/PostgreSQL-MCP-from-WeiHang-20d60e6b8fd780fdaeffde20939e4296">How to setup and example prompts</a></li>
+</ul>
