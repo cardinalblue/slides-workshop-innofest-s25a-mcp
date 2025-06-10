@@ -3,11 +3,11 @@ layout: center
 class: text-center
 ---
 
-<h1 style="font-size: 80px; font-weight:500; margin: 0;">Demonstrations</h1>
+<h1 style="font-size: 80px; font-weight:500; margin: 0;" class="text-blue-500">Demonstrations</h1>
 
 ---
 
-# Innofest Brainstorming
+# <span class="text-blue-500">Innofest Brainstorming</span>
 
 <div class="bg-gray-800 border-l-4 border-blue-500 p-4 my-4">
 
@@ -22,9 +22,9 @@ class: text-center
 
 </div>
 
-- MCP Servers used
-  - Notion MCP Server ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
-  - ClickUp MCP Server ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
+- <span class="text-amber-400 font-bold">MCP Servers used</span>
+  - <span class="text-green-400">Notion MCP Server</span> ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
+  - <span class="text-green-400">ClickUp MCP Server</span> ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
 
 <!--
 I am in a mobile software company. We are having hackathon this week.
@@ -37,22 +37,22 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
 
 ---
 
-# Writing PRD and creating tasks
+# <span class="text-blue-500">Writing PRD and creating tasks</span>
 
-## Project
-- Goal: Use ChatGPT API to let user create collages using chat
+## <span class="text-amber-400">Project</span>
+- <span class="text-green-400 font-bold">Goal:</span> Use ChatGPT API to let user create collages using chat
   - The agent will equip tools that can
-    - Analyze the user photos and videos and find the suitable media from the gallery
-    - Insert photos and videos. Put them in the right place
-    - Add decorations using our existing assets
+    - <span class="text-amber-400">Analyze</span> the user photos and videos and find the suitable media from the gallery
+    - <span class="text-amber-400">Insert</span> photos and videos. Put them in the right place
+    - <span class="text-amber-400">Add decorations</span> using our existing assets
 - Detailed prompt: [Link](https://www.notion.so/piccollage/Detailed-prompt-for-LLM-collage-20a60e6b8fd7807b99d3ce5b891743af)
-- MCP Servers used
-  - Notion MCP Server ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
-  - ClickUp MCP Server ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
+- <span class="text-green-400 font-bold">MCP Servers used</span>
+  - <span class="text-green-400">Notion MCP Server</span> ([@suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server))
+  - <span class="text-green-400">ClickUp MCP Server</span> ([@TaazKareem/clickup-mcp-server](https://github.com/taazkareem/clickup-mcp-server))
 
 ---
 
-# Check the issues of PicCollage release
+# <span class="text-blue-500">Check the issues of PicCollage release</span>
 
 <div class="grid grid-cols-2 gap-4">
   <div class="flex items-center justify-center">
@@ -62,27 +62,27 @@ https://app.clickup.com/3680922/v/l/li/901808416892?pr=90184823764
   </div>
   <div class="flex items-center">
     <ul>
-      <li>MCP Server used: <a href="https://executeautomation.github.io/mcp-playwright/">Playwright MCP Server</a></li>
+      <li><span class="text-green-400 font-bold">MCP Server used:</span> <a href="https://executeautomation.github.io/mcp-playwright/">Playwright MCP Server</a></li>
       <li><a href="https://www.notion.so/piccollage/Detailed-prompt-for-the-Crashlytics-check-20a60e6b8fd78002ad44e95bad11cf20">Detailed prompt</a></li>
-      <li>List PicCollage job openings</li>
-      <li>Order a pizza</li>
+      <li><span class="text-amber-400">List PicCollage job openings</span></li>
+      <li><span class="text-amber-400">Order a pizza</span></li>
     </ul>
   </div>
 </div>
 
 ---
 
-# PicCollage Database Inspection (WeiHang)
+# <span class="text-blue-500">PicCollage Database Inspection</span> <span class="text-green-400">(WeiHang)</span>
 
 <ul>
-  <li>We took a snapshot of the PicCollage content database</li>
-  <li>With the help from Claude + PostgreSQL MCP Server, people can figure out what's in the content database and answer many questions they have towards the current content we have.
+  <li><span class="text-green-400">We took a snapshot of the PicCollage content database</span></li>
+  <li>With the help from <span class="text-amber-400 font-bold">Claude + PostgreSQL MCP Server</span>, people can figure out what's in the content database and answer many questions they have towards the current content we have.
     <ul>
-      <li>Claude knows how to use it, so even members not from the engineering function can use it</li>
+      <li><span class="text-green-400">Claude knows how to use it</span>, so even members not from the engineering function can use it</li>
     </ul>
   </li>
   <li>
-  Examples
+  <span class="text-amber-400 font-bold">Examples</span>
     <p><blockquote class="text-amber-500 font-bold border-l-4 pl-4 border-amber-500">
       How many background bundle are there in the database?
     </blockquote></p>

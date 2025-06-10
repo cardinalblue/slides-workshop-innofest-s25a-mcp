@@ -1,10 +1,10 @@
-# Create a Simple MCP Server
+# <span class="text-blue-500">Create a Simple MCP Server</span>
 
-- Questions
-  - What are the things agents are not capable of doing on their own
-  - What are the tools you want to provide AI agents
-  - What are the data we want to expose to the AI agents
-  - For our current services and products, what kind of things can we let AI agents operate?
+- <span class="text-amber-400 font-bold">Questions</span>
+  - What are the things agents are <span class="text-red-400">not capable of doing</span> on their own
+  - What are the <span class="text-green-400">tools</span> you want to provide AI agents
+  - What are the <span class="text-green-400">data</span> we want to expose to the AI agents
+  - For our current services and products, what kind of things can we let AI agents <span class="text-green-400">operate</span>?
 
 <div class="bg-gray-800 border-l-4 border-blue-500 p-4 my-4">
 
